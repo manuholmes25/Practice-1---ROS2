@@ -1,0 +1,6 @@
+[console_scripts]
+client = py_pubsub.client_angles:main
+receiver = py_pubsub.sub_angles:main
+sender = py_pubsub.pub_angles:main
+server = py_pubsub.server_angles:main
+
